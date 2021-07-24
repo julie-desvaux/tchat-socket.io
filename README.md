@@ -9,5 +9,8 @@
 * NodeJs
 * Socket.IO
 
+## Visualiser le projet : 
+* [Cliquez ici](https://chat.julie-desvaux.com/)
+
 ##
 ![Visuel!](http://julie-desvaux.com/images/tchat_socket_io.png "Visuel")
